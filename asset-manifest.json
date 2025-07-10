@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loco-bongo-splash/static/css/main.59456fcb.css",
+    "main.js": "/loco-bongo-splash/static/js/main.70080f80.js",
+    "static/media/Noah Text Heavy.ttf": "/loco-bongo-splash/static/media/Noah Text Heavy.1582614767b27fcdcae5.ttf",
+    "static/media/logobongo_splash_ok.svg": "/loco-bongo-splash/static/media/logobongo_splash_ok.2285bbecaccdf37bee629c69fbb129c2.svg",
+    "index.html": "/loco-bongo-splash/index.html",
+    "main.59456fcb.css.map": "/loco-bongo-splash/static/css/main.59456fcb.css.map",
+    "main.70080f80.js.map": "/loco-bongo-splash/static/js/main.70080f80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59456fcb.css",
+    "static/js/main.70080f80.js"
+  ]
+}
